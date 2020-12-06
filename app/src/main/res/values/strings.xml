@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyInsta</string>
+    <string name="lbl_followers">Followers</string>
+    <string name="lbl_count_postingan">13</string>
+    <string name="lbl_postingan">Postingan</string>
+    <string name="lbl_count_pengikut">1.305</string>
+    <string name="lbl_pengikut">Pengikut</string>
+    <string name="lbl_count_mengikuti">578</string>
+    <string name="lbl_mengikuti">Mengikuti</string>
+    <string name="lbl_nama">A H M A D R A H M A N D A N I</string>
+    <string name="lbl_kategori">Blog Pribadi</string>
+    <string name="lbl_bio">Tugas Mobile Programing</string>
+    <string name="lbl_bio1">Teknik Informatika 3A</string>
+    <string name="btn_kirim_pesan">Kirim Pesan</string>
+    <string name="btn_ikuti">Ikuti</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arvo</item>
+        <item>@font/baloo_tamma</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/delius_unicase</item>
+        <item>@font/diplomata_sc</item>
+        <item>@font/walter_turncoat</item>
+    </array>
+</resources>
