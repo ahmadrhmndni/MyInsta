@@ -21,8 +21,8 @@
 
     <TextView
         android:id="@+id/lbl_count_postingan"
-        android:layout_width="16dp"
-        android:layout_height="27dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="32dp"
@@ -33,7 +33,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/lbl_profil"
-        app:layout_constraintTop_toTopOf="@+id/lbl_profil" />
+        app:layout_constraintTop_toTopOf="@+id/lbl_profil"
+        tools:text="16" />
 
     <TextView
         android:id="@+id/lbl_postingan"
@@ -51,8 +52,8 @@
         android:id="@+id/lbl_count_pengikut"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="50dp"
-        android:layout_marginLeft="50dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginLeft="58dp"
         android:layout_marginTop="32dp"
         android:text="@string/lbl_count_pengikut"
         android:textColor="@color/black"
@@ -77,8 +78,8 @@
         android:id="@+id/lbl_count_mengikuti"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="42dp"
-        android:layout_marginLeft="42dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="44dp"
         android:layout_marginTop="32dp"
         android:text="@string/lbl_count_mengikuti"
         android:textColor="@color/black"
