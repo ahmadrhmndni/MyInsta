@@ -34,7 +34,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/lbl_profil"
         app:layout_constraintTop_toTopOf="@+id/lbl_profil"
-        tools:text="20" />
+        tools:text="19" />
 
     <TextView
         android:id="@+id/lbl_postingan"
