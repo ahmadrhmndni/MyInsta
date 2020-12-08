@@ -13,4 +13,55 @@
     <string name="lbl_bio1">Teknik Informatika 3A</string>
     <string name="btn_kirim_pesan">Kirim Pesan</string>
     <string name="btn_ikuti">Ikuti</string>
+
+    <string name="content_specs_display">Microsoft Windows 10 Home
+        Intel Core i7 Kaby-Lake
+        NVIDIA GeForce GTX 1050/TI</string>
+    <string name="content_specs">Prosesor
+Hingga Intel 7th Generation®Prosesor Core™ i7
+Sistem Operasi
+Windows 10 Home
+grafis
+Hingga NVIDIA® GeForce® GTX 1050 Ti
+Memori
+Hingga 16 GB DDR4; 2 x SODIMM Slot
+Storage
+129 GB / 256 GB / 512 GB PCIe SSD or
+501 GB / 1 TB / 2 TB SATA HDD
+</string>
+    <string name="content_specs_io">I/O	1x USB 3.1 Type-C
+        2x USB 3.0
+        1x USB 2.0
+        1x HDMI
+        1x RJ45 Lan
+        1x 4-in-1 card reader
+        Camera	Built-in HD Webcam
+        Keyboard	Backlit keyboard warna merah
+        Dimensi	380 x 256 x 25,8 mm
+        Bobot	2,45 Kg
+        Baterai	52 Wh Lithium-Ion
+    I/O	1x USB 3.1 Type-C
+        2x USB 3.0
+        1x USB 2.0
+        1x HDMI
+        1x RJ45 Lan
+        1x 4-in-1 card reader
+        Camera	Built-in HD Webcam
+        Keyboard	Backlit keyboard warna merah
+        Dimensi	380 x 256 x 25,8 mm
+        Bobot	2,45 Kg
+        Baterai	52 Wh Lithium-Ion</string>
+    <string name="content_text">Lenovo Legion Y520 punya banyak pilihan spesifikasi gahar dengan prosesor Intel Core i7 generasi ke7 Kaby Lake dengan dukungan RAM hingga 16GB. Tentu saja sebagai laptop gaming, Y520 dipersenjatai dengan kartu grafis NVIDIA GTX 1050/TI. Kamu dapat memilih  jenis menyimpanan yang ditawarkan, yakni SSD hingga berkapasitas 512GB atau HDD hingga 2TB.
+        Desain dari Lenovo Legion Y520 ini terbilang sangat cantik. Layar ukuran 15,6 inci beresolusi Full HD 1080p merupakan pilihan pas dalam hal portabilitas dan kinerja. Kyeboard backlit berwarna merah menyala dan sentuhan warna hitam yang tidak akan meninggalkan bekas sentuhan jari.</string>
+    <string name="content_price"> Rp.12.000.000</string>
+    <string name="content_specs_por">
+        2 x USB 3.1 (Type-C)
+3 x USB 3.0
+2 x USB 2.0
+2 x HDMI™
+Audio Jack
+Jack Mikrofon
+RJ45 LAN
+Card Reader 4-in-1 (SD, SDHC, SDXC, MMC)
+    </string>
 </resources>
